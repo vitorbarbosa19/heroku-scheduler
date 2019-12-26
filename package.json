@@ -7,8 +7,7 @@
     "heroku-scheduler": "worker.js"
   },
   "scripts": {
-    "start": "node index",
-    "worker": "node worker"
+    "start": "node index"
   },
   "repository": {
     "type": "git",
