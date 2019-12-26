@@ -1,0 +1,23 @@
+{
+  "name": "heroku-scheduler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "heroku-scheduler": "worker.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorbarbosa19/heroku-scheduler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorbarbosa19/heroku-scheduler/issues"
+  },
+  "homepage": "https://github.com/vitorbarbosa19/heroku-scheduler#readme"
+}
