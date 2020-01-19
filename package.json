@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/vitorbarbosa19/heroku-scheduler/issues"
   },
-  "homepage": "https://github.com/vitorbarbosa19/heroku-scheduler#readme"
+  "homepage": "https://github.com/vitorbarbosa19/heroku-scheduler#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.8"
+  }
 }
